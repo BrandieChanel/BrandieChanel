@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BrandieChanel
-- 👀 I’m interested in networking withing the tech industry
+- 👀 I’m interested in networking within the tech industry
 - 🌱 I’m currently learning html,css,javascript
 - 💞️ I’m looking to collaborate on early stage projects
 - 📫 How to reach me by email branide.chanel@gmail.com
