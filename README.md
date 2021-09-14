@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BTech
+- 👋 Hi, I’m @brandie
 - 👀 I’m interested in networking within the tech industry
 - 🌱 I’m currently learning html,css,javascript
 - 💞️ I’m looking to collaborate on early stage projects
