@@ -2,7 +2,7 @@
 - 👀 I’m interested in networking within the tech industry
 - 🌱 I’m currently learning html,css,javascript
 - 💞️ I’m looking to collaborate on early stage projects
-- 📫 How to reach me by email brandie.chanel@gmail.com
+- 📫 How to reach me by email brandie.chanel.dev@gmail.com
 
 <!---
 BTech/BTech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
